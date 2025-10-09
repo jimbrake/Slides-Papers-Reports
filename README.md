@@ -5,6 +5,7 @@ A given file may occur in more than one subdirectory
 The web page on each file will contain notes and retrospections  
 
 Most of the files are now uploaded  
-There are now 61 individual directories and a set of eight category directories  
+There are now 61 individual directories in Talks_sorted_by_year  
+And eight category directories with spreadsheet lists  
 Abstracts and commentary are not complete  
-And there are several that need to be located  
+And there are several presentations that need to be located  
