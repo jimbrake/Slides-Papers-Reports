@@ -1,7 +1,8 @@
 ##  Floating-point talks and a patent  
 Ugh, due to recent progress in floating point encodings much of my work is obsolete  
-The recent developments files have references to the major papers in this area  
-The 1999 and later directories are the presentations on floating point  
+The recent developments files have references to the major papers in this area:  
+See Floating-point_recent_developments.pdf in this directory for the web links  
+The 1999 and later directories are my presentations on floating point  
 
 ### 1972 Optimal floating point format  
 Observation that short floats can be zero extended by putting the exponent and mantissa signs in the middle  
@@ -16,7 +17,7 @@ IEEE 754 sub-normals are difficult to handle in pipelined hardware
 And leading zeros counting and shifting the mantissa takes time  
 Saw the oportunity to maintain normalization and using trailling zeros count  
 to adjust the exponent and to offer gradual overflow at no additional cost  
-The patent makes for difficult reading.  
+The patent makes for difficult reading.  The terminology is improving, see the HUB references  
 Was trying to get a process patent without relying on previously disclosed information  
 (see: 2023 Floating-point-n-patent / Correspondence with IEEE 854 committee.pdf)  
 
@@ -48,7 +49,6 @@ This is a presentation on John Gustafson's POSIT and some of my comments thereon
 It predates recent work: HUB format, PT-FLoat and Takum Aritmetic  
 Since the talk, POSITs now typically use es = 2 and limit the regime length (slide 6)  
 
-
 ### 2023 Floating point-n-patent  
 Patent is expired, was asked to do a talk on floating point including my patent  
 One of the IEEE members mentioned the dificulties NASA had with floating point  
@@ -57,4 +57,5 @@ Incorporated some of their stories along with issues I see with IEEE 754
 John Gustafson's "Every Bit Counts" 2024 book does likewise  
 He is an authority in these matters, my interests are in cirucit costs and performance  
 There is much work in validating the new formats and short formats  
+
 
