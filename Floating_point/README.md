@@ -30,7 +30,7 @@ viable (and superior) alternatives. One set of design decisions is shown by alt-
 mathematical model to motivate the design and implementation decisions.  
 
 ### 2001 Floating_point_reworked_Austin  
-Done before using powerpoint slides, used microsoft word and excel  
+Done before using powerpoint slides, used Microsoft Word and Excel  
 Contains taper diagrams and a rounding diagram  
 Talk closely based on the 1995 patent  
 
@@ -58,4 +58,5 @@ John Gustafson's "Every Bit Counts" 2024 book does likewise
 He is an authority in these matters, my interests are in cirucit costs and performance  
 There is much work in validating the new formats and short formats  
 
-
+### 2025 Paper in preparation offering terminology improvements  
+Half bit (see HUB papers), formal mantissa definition and residue definition  
