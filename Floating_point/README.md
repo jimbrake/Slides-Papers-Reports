@@ -1,5 +1,7 @@
 ##  Floating-point talks and a patent  
-Ugh, due to recent progress in floating point encodings much of my work is obsolete  
+Due to recent progress in floating point encodings much of my work is outdated:  
+Takum Arithmetic does not use gradual underflow or gradual overflow  
+Instead an exponential taper covers the entire exponent range  
 The recent developments files have references to the major papers in this area:  
 See Floating-point_recent_developments.pdf in this directory for the web links  
 The 1999 and later directories are my presentations on floating point  
@@ -68,4 +70,5 @@ There is much work in validating the new formats and short formats
 
 ### 2025 Paper in preparation offering terminology improvements  
 Half bit (see HUB papers), formal mantissa definition and residue definition  
+
 
