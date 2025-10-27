@@ -2,7 +2,7 @@
 Welcome to my presentation slide decks, papers and reports  
 Vanity aside, I'd like to showcase my academic side  
 And provide full copies for those that wish to reference my work  
-Some are referenced others without being full peer reviewed  
+Some are referenced by others without being full peer reviewed  
 
 Am showing only what is publically available or on this github web site  
 The web page on each file will contain notes, comments and retrospection  
