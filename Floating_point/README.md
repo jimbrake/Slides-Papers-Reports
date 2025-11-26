@@ -8,8 +8,8 @@ The 1999 and later directories are my presentations on floating point
 
 ### 1972 Optimal floating point format  
 https://github.com/jimbrake/Slides-Papers-Reports/tree/main/Talks_sorted_by_year/1972_Optimal_floating-point_format  
-Observation that short floats can be zero extended by putting the exponent and mantissa signs in the middle  
-Later observed that bit reversing the mantissa and intermixing it with the exponent, zero extension is only needed on the most significant end  
+Observation that short floats can be zero extended by putting the exponent and mantissa signs in the middle 
+Later observed that bit reversing the mantissa and intermixing it with the exponent, zero extension is only needed on the most significant end.  
 
 ### 1977 Variable length data formats  
 https://github.com/jimbrake/Slides-Papers-Reports/tree/main/Talks_sorted_by_year/1977_Variable_length_data_formats  
@@ -28,11 +28,11 @@ Was trying to get a process patent without relying on previously disclosed infor
 
 ### 1999 Case_for_non-IEEE-754_floating-point  
 https://github.com/jimbrake/Slides-Papers-Reports/tree/main/Talks_sorted_by_year/1999_Case_for_non-IEEE-754_floating-point  
-The floating-point advocated in this paper, herein called alt-754, was motivated by certain hardware and  
-software complexities of IEEE-754. The process of finding solutions to IEEE-754 complexity illuminates the  
-choices faced in floating-point architecture  
-A more through examination of the issues in floating-point design shows that some features of IEEE-754 have  
-viable (and superior) alternatives. One set of design decisions is shown by alt-754. Alt-754 has a simple  
+The floating-point advocated in this paper, herein called alt-754, was motivated by certain hardware and 
+software complexities of IEEE-754. The process of finding solutions to IEEE-754 complexity illuminates the 
+choices faced in floating-point architecture. 
+A more through examination of the issues in floating-point design shows that some features of IEEE-754 have 
+viable (and superior) alternatives. One set of design decisions is shown by alt-754. Alt-754 has a simple 
 mathematical model to motivate the design and implementation decisions.  
 
 ### 2001 Floating_point_reworked_Austin  
@@ -41,9 +41,9 @@ Done before using powerpoint slides, used Microsoft Word and Excel
 Contains taper diagrams and a rounding diagram  
 Talk closely based on the 1995 patent  
 
-The floating-point advocated in this paper, herein called Alt-754, was motivated by certain hardware  
-and software complexities of IEEE-754. The process of finding solutions to IEEE-754 complexity  
-illuminates the choices faced in floating-point architecture  
+The floating-point advocated in this paper, herein called Alt-754, was motivated by certain hardware 
+and software complexities of IEEE-754. The process of finding solutions to IEEE-754 complexity 
+illuminates the choices faced in floating-point architecture.  
 
 ### 2001 Floating_point_reworked_C16  
 https://github.com/jimbrake/Slides-Papers-Reports/tree/main/Talks_sorted_by_year/2001_Floating_point_reworked_C16  
@@ -70,5 +70,6 @@ There is much work in validating the new formats and short formats
 
 ### 2025 Paper in preparation offering terminology improvements  
 Half bit (see HUB papers), formal mantissa definition and residue definition  
+
 
 
