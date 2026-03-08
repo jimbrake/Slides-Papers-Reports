@@ -1,4 +1,4 @@
-# Comments on IEEE 854  
+## Comments on IEEE 854  
 Letter sent to W.J. Cody of IEEE Standards committee  
 Mentioned in:  
 https://speleotrove.com/decimal/854M8503.pdf  
