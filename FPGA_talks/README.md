@@ -5,7 +5,7 @@ Observation that short floats can be zero extended by putting the exponent and m
 Later observed that bit reversing the mantissa and intermixing it with the exponent zero extension is only needed on the most significant end  
 
 ### 1977 Variable length data formats 
-At the time was collection computer instruction sets and made a list of floating point formats  
+At the time was collecting computer instruction sets and made a list of floating point formats  
 Matt Quinn saw it and put it into his conference paper, it seems that NASA was very concerned with floating point consistency (see 2023 Floating point-n-patent)  
 
 ### 1995 fltg-patent US589697A  
